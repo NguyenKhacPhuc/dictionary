@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+   >
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/search"
+            android:title="Tìm Kiếm"
+            />
+        <item android:id="@+id/consume"
+            android:title="Trang Phục"
+            />
+        <item android:id="@+id/rope"
+            android:title="Dây"
+           />
+        <item android:id="@+id/crossTheWall"
+            android:title="Vượt Tường"
+           />
+        <item android:id="@+id/belt"
+            android:title="Tự Cứu"
+           />
+        <item android:id="@+id/extraBelt"
+            android:title="Đai"
+            />
+
+
+    </group>
+</menu>

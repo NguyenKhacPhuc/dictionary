@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Từ điển CNCH</string>
+
+    <string name="title_activity_spahsh_screen">spahsh_screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="normal_costume_desc">Dưới đây là nội dung của mục hướng dẫn mang trang phục chữa cháy cứu hộ thông thường, mục gồm 2 phần gồm có học cụ và qui trình, theo đó còn là ảnh kèm theo để người xem có thể dễ hình dung ở mục cuối cùng.</string>
+    <string name="technical_costume_desc">Dưới đây là nội dung của mục hướng dẫn mang trang phục chữa cháy cứu hộ chuyên dụng, mục gồm 2 phần gồm có học cụ và qui trình, theo đó còn là ảnh kèm theo để người xem có thể dễ hình dung ở mục cuối cùng.</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="cross_wall_desc">Kỹ thuật vượt tường 2m là kỹ thuật vượt chướng ngại vật, được áp dụng trong các đội hình thi thể thao nghiệp vụ chữa cháy và cứu nạn cứu hộ, giúp cho các vận động viên thi dút ngắn được thời gian, nâng cao thành tích thi đấu.
+Ngoài ra, còn là bài tập huấn luyện tâm lý chiến đấu cho chiến sỹ chữa cháy và cứu nạn cứu hộ.
+</string>
+    <string name="rope_introduction">Dây được sử dụng rộng rãi trong các hoạt động chữa cháy và cứu nạn, cứu hộ như đảm bảo an toàn cho chiến sĩ khi tập luyện, chữa cháy, cứu người, đưa các trang thiết bị, phương tiện chữa cháy và cứu nạn, cứu hộ từ dưới lên trên hoặc cố định phương tiện chữa cháy và cứu nạn, cứu hộ vào cấu kiện xây dựng</string>
+    <string name="pullback_technique">Có nhiều cách thu hồi dây khác nhau tùy thuộc vào chiều dài và chất liệu của dây. Trong nội dung phần này chỉ giới thiệu cách thu hồi dây sao cho dễ dàng và thuận lợi cho chữa cháy và cứu nạn, cứu hộ.</string>
+    <string name="tie_rope">Có nhiều cách buộc dây, ở đây chỉ giới thiệu sáu kỹ thuật buộc dây nhanh, an toàn và dễ thao tác nhất.</string>
+    <string name="hold_rope">Cách tiến hành giữ dây được áp dụng khi chiến sĩ cẫn giữ dây để đảm bảo an toàn cho các chiến sĩ đang làm nhiệm vụ, thả nạn nhân, phương tiện, thiết bị từ trên cao xuống hoặc để đảm bảo an toàn cho người bị nạn khi họ có thể thực hiện các thao tác theo sự hướng dẫn của lực lượng chữa cháy và CNCH. Khi giữ dây tùy thuộc vào vị trí của dây mà ta chọn phương pháp giữ dây cho phù hợp</string>
+
+    <string-array name="rope">
+        <item>"Giới thiệu"</item>
+        <item>"Thu hồi"</item>
+        <item>"Nối dây"</item>
+        <item>"Buộc dây"</item>
+        <item>"Tạo nút"</item>
+        <item>"Giữ dây"</item>
+    </string-array>
+    <string-array name="costume">
+        <item>"Thông thường"</item>
+        <item>"Chuyên dụng"</item>
+    </string-array>
+    <string-array name="belt">
+        <item>"Tự Cứu Bằng Đai"</item>
+    </string-array>
+    <string-array name="save">
+        <item>"Đai an toàn"</item>
+        <item>"Đai háng"</item>
+    </string-array>
+
+    <string-array name="search_text">
+        <item>Trang phục thông thường</item>
+        <item>Trang phục chuyên dụng</item>
+        <item>"Giới thiệu dây"</item>
+        <item>"Thu hồi dây"</item>
+        <item>"Nối dây"</item>
+        <item>"Buộc dây"</item>
+        <item>"Tạo nút dây"</item>
+        <item>"Giữ dây"</item>
+        <item>"Vượt Tường"</item>
+        <item>"Đai an toàn"</item>
+        <item>"Đai háng"</item>
+        <item>"Tự Cứu Bằng Đai"</item>
+    </string-array>
+
+</resources>
